@@ -1,0 +1,49 @@
+article {
+    padding: 0 40px;
+}
+
+.card {
+    display: flex;
+    padding: 18px 0;
+    border-bottom: 1px solid grey;
+    align-items: center;
+}
+
+.card-image {
+    width: 170px;
+    height: 230px;
+    border-radius: 7px;
+    object-fit: cover;
+}
+
+.right-side {
+    margin-left: 20px;
+}
+
+.location-image {
+    width: 7px;
+    margin-right: 5px;
+}
+
+.country {
+    font-size: 11px;
+    margin-right: 12px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.location-google-map {
+    color: grey;
+}
+
+.card-title {
+    font-size: 25px;
+    margin: 15px 0;
+}
+
+.description-block {
+    width: 400px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #2B283A;
+}

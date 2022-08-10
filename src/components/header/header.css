@@ -1,0 +1,22 @@
+.header {
+    height: 55px;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 27px;
+}
+
+.header-title {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    line-height: 17px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.header-logo {
+    padding: 0 10px;
+    height: 24px;
+}
